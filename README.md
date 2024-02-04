@@ -20,6 +20,6 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
 1. Clone the repository:
 
 ```shell
-https://github.com/abubakrsaddique/Admin-Panel.git
+ git clone https://github.com/abubakrsaddique/Admin-Panel.git
 
 
