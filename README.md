@@ -11,9 +11,10 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
 
 ## Features
 * Sign up and login with email and password
+* Create and Delete New Users
 * Private and protected routes
 * Integration with Firebase for authentication functionalities
-* Create New Users
+* Change Themes
 
 ## Installation
 
