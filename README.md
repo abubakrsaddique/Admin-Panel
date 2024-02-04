@@ -22,4 +22,36 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
 ```shell
  git clone https://github.com/abubakrsaddique/Admin-Panel.git
 
+2. Navigate to the project directory:
+
+   ```shell
+    cd react-firebase-authentication-guide
+
+3. Install the dependencies:
+
+   ```shell
+   npm install
+
+4. Configure Firebase:
+* Create a Firebase project in the Firebase Console.
+* Go to the project settings and copy the Firebase configuration.
+* Paste the Firebase configuration into src/firebase.js.
+```
+// Your web app's Firebase configuration
+
+const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+};
+```
+
+5. Start the development server:
+ 
+   ```shell
+   npm start
+
 
