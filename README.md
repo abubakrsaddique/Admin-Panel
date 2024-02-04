@@ -57,7 +57,7 @@ const firebaseConfig = {
 6. Open your browser and navigate to http://localhost:3000 to view the application.
 
 
-## Authors
+## Author
 
 * [@abubakrsaddique](https://github.com/abubakrsaddique)
 
