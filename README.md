@@ -10,4 +10,7 @@ The React Firebase Authentication Guide provides step-by-step instructions and c
 https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-4962-b698-1d3869e98766
 
 ### Features
-. Sign up and login with email and password
+* Sign up and login with email and password
+* Private and protected routes
+* Integration with Firebase for authentication functionalities
+* Create New Users
