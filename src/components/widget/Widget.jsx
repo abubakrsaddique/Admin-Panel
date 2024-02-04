@@ -37,6 +37,7 @@ const Widget = ({ type }) => {
         title: "ORDERS",
         isMoney: false,
         link: "View all orders",
+        query: "orders",
         icon: (
           <ShoppingCartOutlinedIcon
             className="icon"
@@ -53,6 +54,7 @@ const Widget = ({ type }) => {
         title: "EARNINGS",
         isMoney: true,
         link: "View net earnings",
+        query: "earnings",
         icon: (
           <MonetizationOnOutlinedIcon
             className="icon"
@@ -108,7 +110,7 @@ const Widget = ({ type }) => {
       );
     };
     fetchData();
-  }, );
+  },[data.query]);
 
   return (
     <div className="widget">
