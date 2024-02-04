@@ -16,6 +16,10 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
 * Create New Users
 
 ## Installation
-1.Clone the repository:
+
+1. Clone the repository:
+
+```shell
 https://github.com/abubakrsaddique/Admin-Panel.git
+
 
