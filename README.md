@@ -19,8 +19,8 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
 
 1. Clone the repository:
 
-```shell
- git clone https://github.com/abubakrsaddique/Admin-Panel.git
+   ```shell
+   git clone https://github.com/abubakrsaddique/Admin-Panel.git
 
 2. Navigate to the project directory:
 
@@ -33,9 +33,9 @@ https://github.com/abubakrsaddique/Admin-Panel/assets/141554894/64cae2cb-d9d7-49
    npm install
 
 4. Configure Firebase:
-* Create a Firebase project in the Firebase Console.
-* Go to the project settings and copy the Firebase configuration.
-* Paste the Firebase configuration into src/firebase.js.
+- Create a Firebase project in the Firebase Console.
+- Go to the project settings and copy the Firebase configuration.
+- Paste the Firebase configuration into src/firebase.js.
 ```
 // Your web app's Firebase configuration
 
@@ -52,6 +52,8 @@ const firebaseConfig = {
 5. Start the development server:
  
    ```shell
-   npm start
+   npm start 
+   
+6. Open your browser and navigate to http://localhost:3000 to view the application.
 
 
